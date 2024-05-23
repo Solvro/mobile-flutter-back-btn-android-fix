@@ -1,16 +1,11 @@
 # android_back_btn_fix_example
 
-A new Flutter project.
+## Issue
+Flutter example project showcasing our fix for the flutter issue https://github.com/flutter/flutter/issues/117061
 
-## Getting Started
+## Article
+Full article on the topic: https://solvro.pwr.edu.pl/blog/fix-flutter-android-back-btn-s
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Branches
+- `master` - branch with the minimal reproducible workaround for the issue
+- `buggy` - branch showcasing the problem, without the fix
