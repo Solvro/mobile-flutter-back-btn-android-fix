@@ -1,4 +1,4 @@
-# android_back_btn_fix_example
+# Flutter: how to fix the Android back button cold start bug (flutter/flutter#117061)
 
 ## Issue
 Flutter example project showcasing our fix for the flutter issue https://github.com/flutter/flutter/issues/117061
