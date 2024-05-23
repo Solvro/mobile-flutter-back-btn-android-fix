@@ -11,4 +11,4 @@ Full article on the topic: https://solvro.pwr.edu.pl/blog/fix-flutter-android-ba
 - `buggy` - branch showcasing the problem, without the fix
 
 ## Original PR fix in [ToPWR app](https://github.com/Solvro/mobile-topwr)
-https://github.com/Solvro/mobile-topwr/issues/64
+[https://github.com/Solvro/mobile-topwr/issues/64](https://github.com/Solvro/mobile-topwr/pull/80)
